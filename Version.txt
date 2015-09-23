@@ -1,5 +1,8 @@
 Test de archivo de texto para Git
 
+Agrego una nueva línea más arriba y pongo nueva versión
+V1.3
+
 Cambio la versión a una más nueva a ver qué pasa.
 Sarasa
 V1.2
