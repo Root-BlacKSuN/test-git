@@ -1,5 +1,5 @@
 Test de archivo de texto para Git
 
-No me gustó la versión.
-Así que arranco de nuevo.
-Sale versión 1
+Cambio la versión a una más nueva a ver qué pasa.
+Sarasa
+V1.2
