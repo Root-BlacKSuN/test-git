@@ -1,6 +1,5 @@
 Test de archivo de texto para Git
 
-Versión 1.0
-
-w1L 22-09-2015 11:03AM
-
+No me gustó la versión.
+Así que arranco de nuevo.
+Sale versión 1
